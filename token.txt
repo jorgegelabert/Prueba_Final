@@ -1,2 +1,0 @@
-token usuario
-token dueño
